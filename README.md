@@ -30,4 +30,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloFerdin&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="left"> <a href="https://www.google.com/search?q=https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"> </a> <a href="mailto:SEU-EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> </p>
+<p align="left"> <a href="https://www.google.com/search?q=https://www.linkedin.com/in/paulocesarmaximianoferdin/" target="_blank"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"> </a> <a href="mailto:pauloferdin@fio.edu.br"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> </p>
